@@ -1,1 +1,2 @@
 # Dojo
+Codin Dojo Camp
