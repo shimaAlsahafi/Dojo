@@ -1,2 +1,2 @@
 # Dojo
-Codin Dojo Camp
+Coding Dojo Camp
