@@ -1,2 +1,2 @@
-# Dojo
-Coding Dojo Camp
+# CodingDojo
+DevOPs BootCamp 
